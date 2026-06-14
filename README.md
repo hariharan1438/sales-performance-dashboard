@@ -27,3 +27,7 @@ This project analyzes retail sales performance using Power BI and the Superstore
 
 ## Author
 Hari Haran
+
+##output
+
+<img width="1109" height="636" alt="Screenshot 2026-06-11 203925" src="https://github.com/user-attachments/assets/ae2264b0-f1cd-4a6a-82e2-ffad6f09c236" />
